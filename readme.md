@@ -18,8 +18,10 @@ Notch 挖空
 
 Camera 相机
 
-Gesture 手势
+
 # To be done 待修复:
+
+Gesture 手势
 
 # Not working and may not be fixed 不能用并且不会修:
 
